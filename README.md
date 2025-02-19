@@ -36,13 +36,17 @@ Styling: CSS
 1.Set up the backend:
 
 cd chat-app
+
 npm install
+
 node server.js
 
 2.Set up the frontend:
 
 cd client
+
 npm install
+
 npm start
 
 3.Open the app in your browser:
@@ -63,7 +67,4 @@ I’m open to feedback and suggestions to improve the website further. Feel free
 
 ### OUTPUT
 
-
-
-
-
+![Image](https://github.com/user-attachments/assets/b0651b0f-74a7-46b2-83c9-5d75201436bd)
