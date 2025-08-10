@@ -1,17 +1,3 @@
-# Real-Time-Chat-Application
-
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: JAISHREE P B
-
-INTERN ID: CT08NUR
-
-DOMAIN: FRONT END DEVELOPMENT
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTOSH
-
 ### REAL TIME CHAT APPLICATION - INTERNSHIP TASK
 
 A simple real-time chat application built using React.js and WebSockets (Socket.io). This project enables real-time messaging between users with a minimalistic UI.
