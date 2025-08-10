@@ -1,4 +1,4 @@
-### REAL TIME CHAT APPLICATION
+# REAL TIME CHAT APPLICATION
 
 A simple real-time chat application built using React.js and WebSockets (Socket.io). This project enables real-time messaging between users with a minimalistic UI.
 
